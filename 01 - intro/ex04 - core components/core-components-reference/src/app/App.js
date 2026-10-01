@@ -35,6 +35,21 @@ export default function App() {
           </View>
 
           <View style={styles.section}>
+            <Text style={styles.sectionTitle}>Lorem Ipsum</Text>
+            <Text style={styles.sectionBody}>
+              Testing testing 12345
+              alkdsjfhlaksdjhflaskdjhfalskjdhflaskdjfhalskdjfhalskdjhflaksjdhflaksjdhflkasjdhflakjsdbflqwkjdbhfl;WI
+              FHASIDFHALISDHFALSIDJHFlkjhlkjhlkjhlkjhasdlfkjahsdlfkjahsdlfjhlfiufhdlfjhasdlifuahsdlifjhaslidfhualsidf
+              halsiduhfalsiduhfalsiduhflaisudhfliasudhflaisduhfalsudhflasiudhflaisudhfaliusdhfasdfasdfasdfasdf
+              asdfasdfasdfasdfasdf
+              asdfasd
+              fasdfasdf
+              asdfasdf
+              
+            </Text>
+          </View>
+
+          <View style={styles.section}>
             <Text style={styles.sectionTitle}>Quick reflection</Text>
             <Text style={styles.sectionBody}>
               Type one component you added or one UI issue you had to fix during class.
