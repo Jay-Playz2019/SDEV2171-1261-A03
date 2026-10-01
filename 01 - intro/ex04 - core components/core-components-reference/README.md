@@ -13,12 +13,12 @@ From this folder:
    - `npm run android:dev`
    - or `npm run ios:dev`
 4. Start Expo:
-   - `npm run start`
+   - `npm run start
 5. Open the app on one working path:
    - Android emulator with the installed development build
    - iOS simulator on macOS with the installed development build
    - a prepared device path with the installed development build if already available
-
+cd
 ## What this screen demonstrates
 - `View` for structure and grouped sections
 - `Text` for headings and instructions
